@@ -1,4 +1,4 @@
-package scalaOOP
+package scalaLanguage
 
 //there are 2 options to run the Scala app:
 

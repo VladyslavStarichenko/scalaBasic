@@ -1,4 +1,4 @@
-package scalaOOP
+package scalaLanguage
 
 object ObjectOrientation extends App {
   //class and instance -> instantiation with "new"
